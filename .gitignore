@@ -1,0 +1,14 @@
+node_modules
+.env
+!sample.env
+.vscode
+.husky
+!.vscode/extensions.json
+!.husky/pre-commit
+
+# OS related misc.
+.DS_Store
+.exe
+.ini
+.ink
+.msi
